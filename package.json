@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "A CLI based storefront app, with a MySQL backend framework",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jcsummers22/bamazon.git"
+  },
+  "keywords": [
+    "storefront",
+    "customer",
+    "manager"
+  ],
+  "author": "Jason C. Summers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jcsummers22/bamazon/issues"
+  },
+  "homepage": "https://github.com/Jcsummers22/bamazon#readme"
+}
